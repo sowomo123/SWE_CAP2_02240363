@@ -232,3 +232,25 @@ this will help to reset the position of the drone
 
 # notes
 this help went harvest are not in order
+
+
+# challenges
+Syntax Errors: Small mistakes, like missing semicolons or parentheses, has lead to many  errors, which made it difficult to run the game and harvest
+Finding Bugs: Tracking down why code isn’t working as expected was challenging .
+Time-Consuming; this game was time consuming it need paitence and need to harvest
+
+# learnings
+Given a movement and navigation Functions Move() i learnt how the drone moves in specific direction
+given if() / else: Used to add conditions,i learnt how drone allows to perform actions based on specific situations.
+given the function while(): i learnt that  it repeats actions as long as a certain condition is true, ideal for navigating mazes or avoiding obstacles.
+Given the output function print(): i learnt that it displays text output, which is helpful for debugging and understanding game mechanics.
+Given the  range function: i learnt that t’s commonly used in for loops and other contexts where you need to iterate over a set of numbers.
+Given the trade function: i learnt that it is commonly used to exchangethe reasources within the game
+Given the get function i learnt that it is use to collect the reasources such as hay,bush,pumkins.
+
+# reference
+https://youtu.be/F5bpI_od1h0?si=RfrNcGUS5p_yrHuW
+https://youtu.be/gmJ357XAAdE?si=aNfClG5Vh3eE2ls4
+https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
+https://chatgpt.com/c/672756f7-fc48-800e-81dc-32c6ec241de8
+https://www.w3schools.com/python/default.asp
