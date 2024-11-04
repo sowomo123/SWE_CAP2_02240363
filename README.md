@@ -254,3 +254,6 @@ https://youtu.be/gmJ357XAAdE?si=aNfClG5Vh3eE2ls4
 https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
 https://chatgpt.com/c/672756f7-fc48-800e-81dc-32c6ec241de8
 https://www.w3schools.com/python/default.asp
+
+# google drive link    
+https://drive.google.com/drive/folders/1CftrYshUtAO7x40lx7K550-pe-eo44We?usp=sharing
